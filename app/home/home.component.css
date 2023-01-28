@@ -1,0 +1,277 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.visit{
+  margin-top: 10%;
+ 
+}
+
+
+.card1 img {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 70%;
+    border-radius: 2%;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.card1 p{
+  font-size: 3em;
+  text-align: center;
+}
+div.card1 {
+    width: 30%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5%;
+    margin-left: 10%;
+    padding-bottom: 10%;
+  }
+  
+    div.container1 {
+      margin-left: 7%;
+      padding: 10px 20px;
+    }
+.card2{
+    margin-top: 10%;
+    
+}
+  .card2 img {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 80%;
+    border-radius: 10%;
+    margin-top: 10%;
+    margin-left: 15%;
+}
+
+div.card2 {
+    width: 30%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5%;
+    margin-bottom: 25px;
+    margin-left: -10%;
+    padding-bottom: 10%;
+    margin-left: 60%;
+  }
+  
+  div.container2 {
+    margin-left: 7%;
+    padding: 10px 20px;
+  }
+  .card3{
+    margin-top: 10%;
+  }
+  .card3 img {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 70%;
+    border-radius: 10%;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+div.card3 {
+    width: 30%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5%;
+    margin-bottom: 25px;
+    margin-left: 10%;
+    padding-bottom: 10%;
+  }
+  
+  div.container3 {
+    margin-left: 7%;
+    padding: 10px 20px;
+  }
+ .card4{
+    margin-top: 10%;
+ }
+  .card4 img {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 80%;
+    border-radius: 10%;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+div.card4 {
+    width: 30%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5%;
+    margin-bottom: 25px;
+    margin-left: 10%;
+    padding-bottom: 10%;
+    margin-left: 60%;
+  }
+  
+  div.container4 {
+    margin-left: 7%;
+    padding: 10px 20px;
+  }
+/* 
+.icon-white{
+   filter: brightness(10);
+}
+.icon-black{
+   filter: brightness(0);
+   opacity:0.6
+}
+.icon-like:before{
+  background-position: -183px -6px;
+
+}
+.icon-com:before{
+  background-position: -63px -4px;
+
+}
+.icon-dat:before{
+  background-position: -94px -7px;
+}
+.icon-tag:before{
+  background-position: -33px -6px;
+
+}
+
+
+/* icons */
+/* .list{
+  text-align: center;
+}
+.list li {
+  margin: 10% 5px 0 0;
+  padding: 20px 0 20px 0px;
+  display: inline-block;
+  font-size:1.5em;
+  
+}
+
+.licon{
+  position:relative;  
+   width:23px;
+   height:15px;
+   display:inline-block;
+   vertical-align:middle;
+   font-size:1.5em;
+}
+.licon:before{
+  content:"";
+   background:url(https://rawcdn.githack.com/Nodws/NodPen/ffad95aa5244b4b09a3c7c1508a018959bbedb7e/postItem/licons.svg?) -2px -6px no-repeat;
+   background-size:250px;
+   width:26px;
+   height:20px;
+   display:inline-block;
+   vertical-align:middle;
+   position:absolute;
+   top:-3px;
+   left:0;
+}
+.icon-white{
+   filter: brightness(10);
+}
+.icon-black{
+   filter: brightness(0);
+   opacity:0.6
+}
+.icon-like:before{
+  background-position: -183px -6px;
+
+}
+.icon-com:before{
+  background-position: -63px -4px;
+
+}
+.icon-dat:before{
+  background-position: -94px -7px;
+}
+.icon-tag:before{
+  background-position: -33px -6px;
+
+}  */
+.garden p{
+  font-size: 10px;
+ text-align: center;
+  margin-top: 5%;
+  width: 40%;
+  
+  
+}
+.garden{
+  width: 40%;
+  padding: 5%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 5%;
+  margin-left: 37%;
+ margin-top: -20%;
+ text-align: center;
+}
+.garden1 p{
+  font-size: 10px;
+ text-align: center;
+  margin-top: 5%;
+  width: 40%;
+  
+  
+}
+.garden1{
+  width: 40%;
+  padding: 5%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 5%;
+  margin-left: 22%;
+ margin-top: -25%;
+ text-align: center;
+}
+.garden2 p{
+  font-size: 10px;
+ text-align: center;
+  margin-top: 5%;
+  width: 40%;
+  
+  
+}
+.garden2{
+  width: 40%;
+  padding: 5%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 5%;
+  margin-left: 37%;
+ margin-top: -25%;
+ text-align: center;
+}
+.garden3 p{
+  font-size: 10px;
+ text-align: center;
+  margin-top: 5%;
+  width: 40%;
+  
+  
+}
+.garden3{
+  width: 40%;
+  padding: 5%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 5%;
+  margin-left: 22%;
+ margin-top: -25%;
+ text-align: center;
+}
+footer{
+  width: 100%;
+  height: 10%;
+  background-color: aqua;
+}
+.site{
+  padding-left: 55%;
+  margin-top: 5%;
+}
